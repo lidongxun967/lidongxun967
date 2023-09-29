@@ -6,6 +6,8 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=noto+sans+simplified+chinese&size=40&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&multiline=true&repeat=%E5%81%87&width=600&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" />
 
+![](https://komarev.com/ghpvc/?username=lidongxun967&color=brightgreen&styles=for-the-badge&label=%20%20%20%20%20%20%20%20该页总访问次数)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lidongxun967&show_icons=true&theme=dark&locale=cn&hide_border=True">
@@ -18,4 +20,3 @@
     <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidongxun967&layout=compact&locale=cn&hide_border=True">
   </picture>
 </p>
-
