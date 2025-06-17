@@ -7,12 +7,12 @@
   <img src="https://img.shields.io/github/followers/lidongxun967?label=GitHub%20%E5%85%B3%E6%B3%A8&logo=github"></a>
 </p>
 </div>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lidongxun967/lidongxun967/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lidongxun967/lidongxun967/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lidongxun967/lidongxun967/output/github-contribution-grid-snake.svg">
-</picture>
+</picture></div>
 
 <p align="center">
   <picture>
