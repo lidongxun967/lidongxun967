@@ -27,6 +27,9 @@
   </picture>
 </p>
 
+![icons](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,wasm,nodejs,vue,npm,pnpm,vite,nuxtjs,react,astro,tailwind,md,bash,powershell,vim,visualstudio,vscode,github,githubactions,cloudflare,workers,vercel,netlify,windows,linux,debian,kali,ubuntu,nginx,docker,ps,xd,qt,git,fastapi,pytorch,terraform,flutter,raspberrypi,arduino,twitter,discord)
+
+
 <p align="center">
   <picture>
     <source height="400px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lidongxun967&custom_title=GitHub%20%E6%B4%BB%E5%8A%A8%E7%BB%9F%E8%AE%A1&theme=github-dark">
