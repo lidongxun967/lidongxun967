@@ -33,9 +33,9 @@
 
 <p align="center">
   <picture>
-    <source height="400px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lidongxun967&custom_title=GitHub%20%E6%B4%BB%E5%8A%A8%E7%BB%9F%E8%AE%A1&theme=github-dark">
-    <source height="400px" media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lidongxun967&custom_title=GitHub%20%E6%B4%BB%E5%8A%A8%E7%BB%9F%E8%AE%A1&theme=github-light">
-    <img height="400px" alt="github contribution grid snake animation" src="https://github-readme-activity-graph.vercel.app/graph?username=lidongxun967&custom_title=GitHub%20%E6%B4%BB%E5%8A%A8%E7%BB%9F%E8%AE%A1">
+    <source height="300px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lidongxun967&custom_title=GitHub%20%E6%B4%BB%E5%8A%A8%E7%BB%9F%E8%AE%A1&theme=github-dark">
+    <source height="300px" media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lidongxun967&custom_title=GitHub%20%E6%B4%BB%E5%8A%A8%E7%BB%9F%E8%AE%A1&theme=github-light">
+    <img height="300px" alt="github contribution grid snake animation" src="https://github-readme-activity-graph.vercel.app/graph?username=lidongxun967&custom_title=GitHub%20%E6%B4%BB%E5%8A%A8%E7%BB%9F%E8%AE%A1">
   </picture>
 </p>
 
