@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,wasm,nodejs,vue,npm,pnpm,vite,nuxtjs,react,astro,tailwind,md,bash,powershell,vim,visualstudio,vscode,github,githubactions,cloudflare,workers,vercel,netlify,windows,linux,debian,kali,ubuntu,nginx,docker,ps,xd,qt,git,fastapi,pytorch,terraform,flutter,raspberrypi,arduino,twitter,discord" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,wasm,nodejs,npm,pnpm,vue,react,vite,nuxtjs,astro,tailwind,md,bash,powershell,vim,visualstudio,vscode,github,githubactions,cloudflare,workers,vercel,netlify,windows,linux,debian,kali,ubuntu,nginx,docker,ps,xd,qt,git,fastapi,pytorch,terraform,flutter,raspberrypi,arduino,twitter,discord" />
 </p>
 
 <p align="center">
