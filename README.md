@@ -17,12 +17,12 @@
 <p align="center">
   <picture>
     <source height="170px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lidongxun967&show_icons=true&theme=dark&locale=cn">
-    <source height="170px" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lidongxun967&show_icons=true&theme=light&locale=cn">
+    <source height="170px" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lidongxun967&show_icons=true&locale=cn">
     <img height="170px" alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api?username=lidongxun967&show_icons=true&locale=cn">
   </picture>
   <picture>
     <source height="170px" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lidongxun967&layout=compact&locale=cn&theme=dark">
-    <source height="170px" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lidongxun967&layout=compact&locale=cn&theme=light">
+    <source height="170px" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lidongxun967&layout=compact&locale=cn">
     <img height="170px" alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidongxun967&layout=compact&locale=cn">
   </picture>
 </p>
